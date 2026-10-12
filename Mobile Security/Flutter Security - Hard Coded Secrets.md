@@ -245,14 +245,3 @@ gitleaks detect --source . --verbose
 - [ ] Decompiled my own release APK to verify nothing sensitive is visible
 
 > [!tip] Self-test Build a release APK, then run `unzip` + `strings libapp.so | grep -i key` and `apktool d app.apk`. If you can find a secret in 5 minutes, so can an attacker.
-
----
-
-## Related
-
-- [[Flutter Security Overview]]
-- [[Certificate Pinning in Flutter]]
-- [[flutter_secure_storage]]
-- [[Firebase App Check]]
-- [[OWASP MASVS]]
-- [[StateBox Pattern (flutter_bloc)]]
