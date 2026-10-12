@@ -11,13 +11,10 @@ share_updated: 2026-10-12T07:11:12+03:00
 
 ## 1. Where data actually lives
 
-|Platform|Backing store|Notes|
-|---|---|---|
-|iOS / macOS|Keychain|Survives app uninstall / reinstall on iOS (see gotchas)|
-|Android|Keystore-protected key encrypting data in app storage|Older versions used `EncryptedSharedPreferences`; newer versions moved to custom ciphers. Check the changelog for your version|
-|Web|WebCrypto + `localStorage`|**Not truly secure**, treat as obfuscation only|
-|Windows|Windows credential / DPAPI-based storage||
-|Linux|`libsecret` (needs it installed)||
+| Platform    | Backing store                                         | Notes                                                                                                                          |
+| ----------- | ----------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------ |
+| iOS / macOS | Keychain                                              | Survives app uninstall / reinstall on iOS (see gotchas)                                                                        |
+| Android     | Keystore-protected key encrypting data in app storage | Older versions used `EncryptedSharedPreferences`; newer versions moved to custom ciphers. Check the changelog for your version |
 
 > [!warning] Not bulletproof On a rooted / jailbroken device or with a compromised OS, an attacker can still reach the data or hook the app at runtime (Frida). Secure storage protects against **casual file access, backups, and other apps**, not a determined attacker with full device control.
 
