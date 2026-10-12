@@ -2,7 +2,7 @@
 
 A personal knowledge base of **Flutter & Dart** notes — from language fundamentals and OOP to design patterns, SOLID principles, architecture tips, and mobile security. Written while learning, building, and teaching Flutter.
 
-> The notes are written in Markdown (Obsidian-style) and can be read directly on GitHub or opened as a vault in [Obsidian](https://obsidian.md/).
+> Each link below opens the published version of the note, so no setup is needed to read them.
 
 ---
 
@@ -10,78 +10,79 @@ A personal knowledge base of **Flutter & Dart** notes — from language fundamen
 
 ### 🎯 Dart & OOP
 
-Dart fundamentals through advanced OOP concepts, numbered in suggested reading order. Start with the [Dart Topics index](https://claude.ai/chat/Dart%20and%20OOP/Dart%20Topics.md).
+Start with the [Dart Topics index](https://share.note.sx/fzvas7ud#8h7B33Qu/P5W5t+s4fW9P9aHIXGP86HlOPnqG6shsQ0).
 
-- [01. Introduction](https://claude.ai/chat/Dart%20and%20OOP/01.%20Introduction.md)
-- [02. Data Types](https://claude.ai/chat/Dart%20and%20OOP/02.%20Data%20Types.md)
-- [03. Collections](https://claude.ai/chat/Dart%20and%20OOP/03.%20Collections.md)
-- [04. Type Keywords](https://claude.ai/chat/Dart%20and%20OOP/04.%20Type%20Keywords.md)
-- [05. Pass-by-Value vs Reference](https://claude.ai/chat/Dart%20and%20OOP/05.%20Pass-by-Value%20vs%20Reference.md)
-- [06. Null Safety](https://claude.ai/chat/Dart%20and%20OOP/06.%20Null%20Safety.md)
-- [07. Control Flow](https://claude.ai/chat/Dart%20and%20OOP/07.%20Control%20Flow.md)
-- [08. Functions](https://claude.ai/chat/Dart%20and%20OOP/08.%20Functions.md)
-- [09. Error Handling](https://claude.ai/chat/Dart%20and%20OOP/09.%20Error%20Handling.md)
-- [10. Generics](https://claude.ai/chat/Dart%20and%20OOP/10.%20Generics.md)
-- [11. Records](https://claude.ai/chat/Dart%20and%20OOP/11.%20Records.md)
-- [12. Regular Expressions](https://claude.ai/chat/Dart%20and%20OOP/12.%20Regular%20Expressions.md)
-- [13. Typedefs](https://claude.ai/chat/Dart%20and%20OOP/13.%20Typedefs.md)
-- [14. Extensions](https://claude.ai/chat/Dart%20and%20OOP/14.%20Extensions.md)
-- [15. Classes & Objects](https://claude.ai/chat/Dart%20and%20OOP/15.%20Classes%20%26%20Objects.md)
-- [16. Constructors](https://claude.ai/chat/Dart%20and%20OOP/16.%20Constructors.md)
-- [17. Encapsulation](https://claude.ai/chat/Dart%20and%20OOP/17.%20Encapsulation.md)
-- [18. Inheritance](https://claude.ai/chat/Dart%20and%20OOP/18.%20Inheritance.md)
-- [19. Abstraction](https://claude.ai/chat/Dart%20and%20OOP/19.%20Abstraction.md)
-- [20. Polymorphism](https://claude.ai/chat/Dart%20and%20OOP/20.%20Polymorphism.md)
-- [21. Interfaces](https://claude.ai/chat/Dart%20and%20OOP/21.%20Interfaces.md)
-- [22. Mixins](https://claude.ai/chat/Dart%20and%20OOP/22.%20Mixins.md)
-- [23. Static Members](https://claude.ai/chat/Dart%20and%20OOP/23.%20Static%20Members.md)
-- [24. Getters & Setters](https://claude.ai/chat/Dart%20and%20OOP/24.%20Getters%20%26%20Setters.md)
-- [25. Operator Overloading](https://claude.ai/chat/Dart%20and%20OOP/25.%20Operator%20Overloading.md)
-- [27. Factory Constructors](https://claude.ai/chat/Dart%20and%20OOP/27.%20Factory%20Constructors.md)
-- [28. Enums](https://claude.ai/chat/Dart%20and%20OOP/28.%20Enums.md)
-- [29. Callable Classes](https://claude.ai/chat/Dart%20and%20OOP/29.%20Callable%20Classes.md)
+- [01. Introduction](https://share.note.sx/nyrx86qo#NcVMpyoJMJPkaylaUbDiRRQrU1Vy52z4fkcNjiAPcOw)
+- [02. Data Types](https://share.note.sx/z2ivqfhe#z/tkm/bYHT46gLcRybFp1pG8SL1yuNtdAlxz52XlC4M)
+- [03. Collections](https://share.note.sx/o7cajbmf#tAVKFtCdZKJnQuC/pocF95serCq1zWxArNms9h1tfVk)
+- [04. Type Keywords](https://share.note.sx/ar9dcfl5#foPZhFlUFISksN5TLMO8Liaakfd/WDGCraxLDqXyIpk)
+- [05. Pass-by-Value vs Reference](https://share.note.sx/499tuthc#Vjq/eSCitqYuBK6wTM2RZH5CeJFbTVqE5T3VUxtBjWk)
+- [06. Null Safety](https://share.note.sx/qla0w2in#dblX9htOpkyjEXS7M4/UO9K0xqYqbQY7eJrv0Z9wtVE)
+- [07. Control Flow](https://share.note.sx/wj7oity8#8Og3T0frxUGwQ5zsV+/kXHKH+De0GkViGYYuhJzH3yo)
+- [08. Functions](https://share.note.sx/4k2mwmwl#fcsx8P2iSxQ7WfvvnBNNnV60/uFgitmAYso0SY6V+U8)
+- [09. Error Handling](https://share.note.sx/r5p9kf4j#zHMrfCycaa+9ws12O17mtO2FRtvkUbF9prUPiqowbR8)
+- [10. Generics](https://share.note.sx/tslhw85a#uYWE22U1laX/BppTGUfrGi06pIM2kqGDanijtLS/75w)
+- [11. Records](https://share.note.sx/xzrt8nt3#sD6GBn1xHzDNJw/sR8Q7niqgOPA6F62kEDv1Z9pukoY)
+- [12. Regular Expressions](https://share.note.sx/3ia3gguz#Gl/PZCAKHr6i2Fip377ZoeFfl/IjCi5sEZwGr9Ss09A)
+- [13. Typedefs](https://share.note.sx/yl798guk#EeQvhpQBql5D0fTYLTjUjTahQVqfwHU6780T1PD5gNE)
+- [14. Extensions](https://share.note.sx/gvwzx5ao#V9gCBOD8rNxPld44lsUw19LRNIvYlAEQ3/GJiQjw1lw)
+- [15. Classes & Objects](https://share.note.sx/nrtx3pcq#jLY07zjKIQnJvsMbHizipczVBuXu5MW12UE0B7zUHGs)
+- [16. Constructors](https://share.note.sx/9rrrh4m9#/61HFXTbOpFsk1Hm25HLdA1632ax5wPOSNH2/Gp3Y6k)
+- [17. Encapsulation](https://share.note.sx/o5e1dv17#RdXJOjLbVvAkj6EMeD74vzPAcwe2zlkEKNqsA20Fxtc)
+- [18. Inheritance](https://share.note.sx/2lfazdxp#a4uLj6KpkGelwnUydAvkuqSWJ9sH+qV3Z/YMPRKtqRU)
+- [19. Abstraction](https://share.note.sx/1r0zg8ai#+BtYJoe+7pOG6YtH+48KnBN5+y/BblpgENh8hHmsM1g)
+- [20. Polymorphism](https://share.note.sx/g7qz0flg#nxPyCwQ6CzZQKxEHBvwcJBKGpk7N6gZtijJgns0rjxs)
+- [21. Interfaces](https://share.note.sx/jfmtadit#PT7b6b1bEA8vq9kD1MFkcpPjxKCTtq4mn0pIcGiBQZU)
+- [22. Mixins](https://share.note.sx/sh41anvz#oTWAuKtyoRpZom0oOuOH4rcWY3NtU6fpkef2da9KfY8)
+- [23. Static Members](https://share.note.sx/9m9n8000#ejtCciX413hkpoXYZWEjfjjqk0ef9d8SCKxARCAY5ew)
+- [24. Getters & Setters](https://share.note.sx/qiv72y27#P+y9bUoysUJiHGas+TfrzGppeXiT+zDKX0P5XBZTQpA)
+- [25. Operator Overloading](https://share.note.sx/jqvjainn#KLWiucJyL+Z8SQX4CKMHma+Jrp/CkczCuMraWVeqUWE)
+- [27. Factory Constructors](https://share.note.sx/2c5bstaf#6vS4A+KPd2G84XCJC70q2HzKnIH6brW0s7RPz6gGV9Q)
+- [28. Enums](https://share.note.sx/kvu9qm9h#eNexqEvArF4604loI6CUhVtCDT9p1dgNSgLyJyJkpFc)
+- [29. Callable Classes](https://share.note.sx/rm2c02mx#fiuAEEYug62H8SHUmLeohG2xUTvb1bJBx8mH3OroYyM)
 
-Also included: slide decks on **Concurrency in Dart** (`.pptx`) in the same folder.
+Also included: slide decks on **Concurrency in Dart** (`.pptx`) in the `Dart and OOP` folder.
 
 ### 🧩 Design Patterns
 
-Overview: [Design Patterns](https://claude.ai/chat/Design%20Patterns/Design%20Patterns.md)
+Overview: [Design Patterns](https://share.note.sx/ml3dgxx1#34Y3RwnWWSUifpO9WqjC1Jo7hXCOTSUTyEP/YmhAQII)
 
-- [Decorator Pattern](https://claude.ai/chat/Design%20Patterns/Decorator%20Pattern.md)
-- [Factory Patterns](https://claude.ai/chat/Design%20Patterns/Factory%20Patterns.md)
-- [Flutter Case Study Strategy Observer Decorator in One App](https://claude.ai/chat/Design%20Patterns/Flutter%20Case%20Study%20Strategy%20%20Observer%20%20%20Decorator%20in%20One%20App.md)
-- [Observer Pattern](https://claude.ai/chat/Design%20Patterns/Observer%20Pattern.md)
-- [Singleton Pattern](https://claude.ai/chat/Design%20Patterns/Singleton%20Pattern.md)
-- [State Pattern](https://claude.ai/chat/Design%20Patterns/State%20Pattern.md)
-- [Strategy Pattern](https://claude.ai/chat/Design%20Patterns/Strategy%20Pattern.md)
+- [Decorator Pattern](https://share.note.sx/h3lthb3y#GUyRjbwip7CJ8lmykvLiz1N9bXe45+hx8OfRFPktm3Y)
+- [Factory Patterns](https://share.note.sx/mwbfollj#esrVslin5nQz3p47xsnaP8oB8tLOqODsT0JI1gSN4nk)
+- [Flutter Case Study Strategy Observer Decorator in One App](https://share.note.sx/8jbt1k8k#6QRyJkfmxPQbtjnUKqEISTR9DG7EHYgvSstgWPUv7iA)
+- [Observer Pattern](https://share.note.sx/jfeksdto#/0p1DyhQfYONJWv+yyoRPKmfdKfE2bzupcGJbILvuVY)
+- [Singleton Pattern](https://share.note.sx/ysmf3w9k#BvH75IEw9mgriDX/GB0+LSMqzbFe3fPZGmr2RiF67Jc)
+- [State Pattern](https://share.note.sx/cb2xn5fv#0b6VV/zPCirLXSkrp9nF8KAYI4YomDJhqt6Dob8AqD8)
+- [Strategy Pattern](https://share.note.sx/1hecxcwl#Vb6BQjnY2XvzuJeLJELrI218SDUDuiVsZb2ywFjAXjg)
 
 ### 🏛️ SOLID Principles
 
-Overview: [Solid Principles](https://claude.ai/chat/Solid%20Principles/Solid%20Principles.md)
+Overview: [Solid Principles](https://share.note.sx/q9u3o5xz#ZxbzbweTXklqygBJUrypEYLV8WbZ6X7fBTUNIdBBdBM)
 
-- [1. Single Responsibility Principle](https://claude.ai/chat/Solid%20Principles/1.%20Single%20Responsibility%20Principle.md)
-- [2. Open Closed Principle](https://claude.ai/chat/Solid%20Principles/2.%20Open%20Closed%20Principle.md)
-- [3. Liskov Substitution Principle](https://claude.ai/chat/Solid%20Principles/3.%20Liskov%20Substitution%20Principle.md)
-- [4. Interface Segregation Principle](https://claude.ai/chat/Solid%20Principles/4.%20Interface%20Segregation%20Principle.md)
-- [5. Dependency Inversion Principle](https://claude.ai/chat/Solid%20Principles/5.%20Dependency%20Inversion%20Principle.md)
+- [1. Single Responsibility Principle](https://share.note.sx/s5xikiou#fOruYAQcbBzPNxEjB7tazJRzj9b2fDHR4HCCueBkojM)
+- [2. Open Closed Principle](https://share.note.sx/9v5fmtsx#M9XCFxIXNvouZP80IvBxatB9BbR9prk2CnXtsdiMVk4)
+- [3. Liskov Substitution Principle](https://share.note.sx/ffwu8hw6#JyxaU/qRNrbJxrOUBItWic8ZxR+lRQWdTWb9w/+TUqM)
+- [4. Interface Segregation Principle](https://share.note.sx/s8upw0uo#Mnm549r58e9aTl7Wjoaov2j6+ElCdel27ejukRLuON8)
+- [5. Dependency Inversion Principle](https://share.note.sx/v0ta7xns#y6KPmFn+794QCsw+t9R81wlC+2ezuqzoAWWvFDc0x/M)
 
 ### 📱 Flutter
 
-- [App Version Control & Maintenance Mode](https://claude.ai/chat/flutter/App%20Version%20Control%20%26%20Maintenance%20Mode.md)
-- [Application Programming Interface (API)](https://claude.ai/chat/flutter/Application%20Programming%20Interface%20%28API%29.md)
-- [How a Flutter Frame Gets to the Screen](https://claude.ai/chat/flutter/How%20a%20Flutter%20Frame%20Gets%20to%20the%20Screen.md)
-- [Interview Questions Flutter](https://claude.ai/chat/flutter/Interview%20Questions%20Flutter.md)
-- [StateBox - How to Manage Multiple States in Cubit](https://claude.ai/chat/flutter/StateBox%20-%20How%20to%20Manage%20Multiple%20States%20in%20Cubit.md)
+- [App Version Control & Maintenance Mode](https://share.note.sx/k8rf5fzi#VDMshf7lGIqx2fnTAIZYlgsHye0rRufm+2YqCIO2bYo)
+- [Application Programming Interface (API)](https://share.note.sx/7v92yi4x#vmHgXJdHEAreO2wTeaiZN3rJAuCd7sdAMkyzJ4Gv+xE)
+- [How a Flutter Frame Gets to the Screen](https://share.note.sx/accpdkjj#fteT+W4RojhWTKn9XyHU1nokRplz92SINiRPhyIMpWQ)
+- [Interview Questions Flutter](https://share.note.sx/69sr5f0r#hESTublkK7SaSC8F7ITQMWDJrGkStCqxMZ/l/vqZxvA)
+- [StateBox - How to Manage Multiple States in Cubit](https://share.note.sx/rbwcg3qa#Nqf6qcMHOpN33Xz+72BSjk0H5TwR6hg+exCDRICH3Ho)
 
 ### 🔐 Mobile Security
 
-- [Flutter Security - Hard Coded Secrets](https://claude.ai/chat/Mobile%20Security/Flutter%20Security%20-%20Hard%20Coded%20Secrets.md)
-- [Mobile Security Architect Roadmap](https://claude.ai/chat/Mobile%20Security/Mobile%20Security%20Architect%20Roadmap.md)
-- [envied vs flutter_dotenv](https://claude.ai/chat/Mobile%20Security/envied%20vs%20flutter_dotenv.md)
+- [Flutter Security - Hard Coded Secrets](https://share.note.sx/ikaocbuj#jQUWDu4Kc/ptpDe4cOvbFtozFrodSAqSNMYh3Vudmag)
+- [Mobile Security Architect Roadmap](https://share.note.sx/l26f0ax2#UaenInQEUsS0/Y9eynfsufCBiufw/1z6qu/mIDkADH8)
+- [envied vs flutter_dotenv](https://share.note.sx/5r31kc7x#8GgiSqxq0UWxGXsV+q60ceeNHaYdQPEvccnhjZw2iS0)
+- [flutter_secure_storage](https://share.note.sx/cdhh1shr#FTEaiRNgdl5RLCwnXpDIBsJ318iWLxoEXNFVI59F3/k)
 
 ### 🖼️ Assets
 
-Diagrams and images used across the notes (design pattern diagrams, request/response flow, etc.) live in [`Assets/`](https://claude.ai/chat/Assets).
+Diagrams and images used across the notes live in [`Assets/`](https://claude.ai/chat/Assets).
 
 ---
 
@@ -89,26 +90,24 @@ Diagrams and images used across the notes (design pattern diagrams, request/resp
 
 ```text
 Flutter-Notes/
-├── Dart and OOP/         # Dart language + OOP concepts (01–29)
-├── Design Patterns/     # Strategy, State, Singleton, Observer, Factory, Decorator
-├── Solid Principles/      # The five SOLID principles
-├── Flutter/                     # Flutter internals, state management, APIs, interview prep
-├── Mobile Security/     # Secrets handling, env packages, security roadmap
-└── Assets/                    # Images and diagrams
+├── Dart and OOP/       # Dart language + OOP concepts (01–29)
+├── Design Patterns/    # Strategy, State, Singleton, Observer, Factory, Decorator
+├── Solid Principles/   # The five SOLID principles
+├── flutter/            # Flutter internals, state management, APIs, interview prep
+├── Mobile Security/    # Secrets handling, env packages, security roadmap
+└── Assets/             # Images and diagrams
 ```
 
 ## 🚀 How to Use
 
-1. **Browse on GitHub** — open any folder and click a note.
+1. **Read online** — click any link above.
 2. **Read offline** — clone the repo:
     
     ```bash
     git clone https://github.com/mo7amedsoliman7/Flutter-Notes.git
     ```
     
-3. **Use as an Obsidian vault** — open the cloned folder in Obsidian so `[[wiki links]]` and the graph view work.
-
-> 💡 Note links written as `[[...]]` inside the notes only resolve in Obsidian; on GitHub, use the links in this README.
+3. **Use as an Obsidian vault** — open the cloned folder in Obsidian.
 
 ## 🤝 Contributing
 
