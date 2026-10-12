@@ -89,11 +89,11 @@ Diagrams and images used across the notes live in [`Assets/`](https://claude.ai/
 ## 🗂️ Repository Structure
 
 ```text
-Flutter-Notes/
+flutter_notes/
 ├── Dart and OOP/       # Dart language + OOP concepts (01–29)
 ├── Design Patterns/    # Strategy, State, Singleton, Observer, Factory, Decorator
 ├── Solid Principles/   # The five SOLID principles
-├── flutter/            # Flutter internals, state management, APIs, interview prep
+├── Flutter/            # Flutter internals, state management, APIs, interview prep
 ├── Mobile Security/    # Secrets handling, env packages, security roadmap
 └── Assets/             # Images and diagrams
 ```
@@ -104,7 +104,7 @@ Flutter-Notes/
 2. **Read offline** — clone the repo:
     
     ```bash
-    git clone https://github.com/mo7amedsoliman7/Flutter-Notes.git
+    git clone https://github.com/mo7amedsoliman7/flutter_notes.git
     ```
     
 3. **Use as an Obsidian vault** — open the cloned folder in Obsidian.
