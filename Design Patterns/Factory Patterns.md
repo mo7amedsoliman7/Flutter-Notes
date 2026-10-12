@@ -1,3 +1,7 @@
+---
+share_link: https://share.note.sx/mwbfollj#esrVslin5nQz3p47xsnaP8oB8tLOqODsT0JI1gSN4nk
+share_updated: 2026-10-12T07:12:34+03:00
+---
 # Design Patterns: Factory Patterns
 
 > **Factory Method** defines an interface for creating an object, but lets subclasses decide which class to instantiate. It lets a class defer instantiation to subclasses.

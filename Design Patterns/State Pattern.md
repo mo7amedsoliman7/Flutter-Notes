@@ -1,3 +1,7 @@
+---
+share_link: https://share.note.sx/cb2xn5fv#0b6VV/zPCirLXSkrp9nF8KAYI4YomDJhqt6Dob8AqD8
+share_updated: 2026-10-12T07:12:12+03:00
+---
 
 
 >  In one line **State lets an object change its behavior when its internal state changes. The object will appear to change its class.**

@@ -1,3 +1,7 @@
+---
+share_link: https://share.note.sx/7v92yi4x#vmHgXJdHEAreO2wTeaiZN3rJAuCd7sdAMkyzJ4Gv+xE
+share_updated: 2026-10-12T07:12:02+03:00
+---
 
 # HTTP Request & Response Anatomy
 

@@ -1,3 +1,7 @@
+---
+share_link: https://share.note.sx/cdhh1shr#FTEaiRNgdl5RLCwnXpDIBsJ318iWLxoEXNFVI59F3/k
+share_updated: 2026-10-12T07:11:12+03:00
+---
 
 # flutter_secure_storage
 

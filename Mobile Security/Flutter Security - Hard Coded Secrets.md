@@ -1,3 +1,7 @@
+---
+share_link: https://share.note.sx/ikaocbuj#jQUWDu4Kc/ptpDe4cOvbFtozFrodSAqSNMYh3Vudmag
+share_updated: 2026-10-12T07:11:16+03:00
+---
 
 # Flutter Security: Hard-coded Secrets
 

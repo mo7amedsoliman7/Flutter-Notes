@@ -1,3 +1,7 @@
+---
+share_link: https://share.note.sx/ysmf3w9k#BvH75IEw9mgriDX/GB0+LSMqzbFe3fPZGmr2RiF67Jc
+share_updated: 2026-10-12T07:12:18+03:00
+---
 # Design Patterns: Singleton Pattern
 
 > **Singleton ensures a class has only one instance, and provides a global point of access to it.**

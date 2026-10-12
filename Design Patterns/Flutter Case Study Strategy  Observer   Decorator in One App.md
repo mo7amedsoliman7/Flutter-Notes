@@ -1,3 +1,7 @@
+---
+share_link: https://share.note.sx/8jbt1k8k#6QRyJkfmxPQbtjnUKqEISTR9DG7EHYgvSstgWPUv7iA
+share_updated: 2026-10-12T07:12:28+03:00
+---
 A small **shopping app** where the three patterns from this series each solve a real problem.
 
 |Feature|Problem|Pattern|

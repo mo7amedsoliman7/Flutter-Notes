@@ -1,3 +1,7 @@
+---
+share_link: https://share.note.sx/5r31kc7x#8GgiSqxq0UWxGXsV+q60ceeNHaYdQPEvccnhjZw2iS0
+share_updated: 2026-10-12T07:11:22+03:00
+---
 # envied vs flutter_dotenv
 
 > [!danger] Short answer **Neither package makes a secret safe.** Both ship the value inside the app. `envied` (with `obfuscate: true`) is _better_ than `flutter_dotenv` because it does not bundle a readable `.env` file, but it is still only a speed bump. Real secrets belong on a backend. See [[Flutter Security - Hard Coded Secrets]].

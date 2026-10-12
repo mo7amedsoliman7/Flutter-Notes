@@ -1,3 +1,7 @@
+---
+share_link: https://share.note.sx/l26f0ax2#UaenInQEUsS0/Y9eynfsufCBiufw/1z6qu/mIDkADH8
+share_updated: 2026-10-12T07:11:32+03:00
+---
 # Lead Mobile Security Architect — Complete 240-Day Roadmap
 
 **Program name:** Lead Mobile Security Architect — FinTech, Government, IoT, Telematics, Remote Control

@@ -1,3 +1,7 @@
+---
+share_link: https://share.note.sx/h3lthb3y#GUyRjbwip7CJ8lmykvLiz1N9bXe45+hx8OfRFPktm3Y
+share_updated: 2026-10-12T07:12:49+03:00
+---
 # Design Patterns: #3 Decorator Pattern
 
 > **Decorator attaches additional responsibilities to an object dynamically. It gives you a flexible alternative to subclassing for extending functionality.**
