@@ -2,7 +2,6 @@
 share_link: https://share.note.sx/cdhh1shr#FTEaiRNgdl5RLCwnXpDIBsJ318iWLxoEXNFVI59F3/k
 share_updated: 2026-10-12T07:11:12+03:00
 ---
-
 # flutter_secure_storage
 
 > [!note] What it is A plugin that stores small key-value strings in the platform's secure store: **Keychain** on iOS / macOS, **Android Keystore-backed encryption** on Android. Use it for **runtime secrets obtained after login** (access / refresh tokens, session IDs, a database encryption key), not for secrets baked into the app. See [[Flutter Security - Hard Coded Secrets]].

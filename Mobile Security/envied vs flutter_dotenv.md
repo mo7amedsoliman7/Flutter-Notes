@@ -200,5 +200,3 @@ For flavors, `--dart-define-from-file` with one JSON per flavor is usually the s
 
 - [[Flutter Security - Hard Coded Secrets]]
 - [[flutter_secure_storage]]
-- [[Firebase App Check]]
-- [[Flutter Flavors]]
